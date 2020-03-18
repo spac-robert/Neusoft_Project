@@ -1,0 +1,4 @@
+﻿  UI.cpp
+C:\Users\Spac Robert\source\repos\Neusoft_project\Neusoft_project\UI.cpp(10,26): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Spac Robert\source\repos\Neusoft_project\Neusoft_project\UI.cpp(12,27): warning C4018: '>': signed/unsigned mismatch
+  Neusoft_project.vcxproj -> C:\Users\Spac Robert\source\repos\Neusoft_project\Debug\Neusoft_project.exe
