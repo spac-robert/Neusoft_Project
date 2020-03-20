@@ -1,0 +1,12 @@
+﻿  Doctor.cpp
+  Functions.cpp
+  Neusoft_project.cpp
+  Patient.cpp
+  Service_doctor.cpp
+  Service_patient.cpp
+  Tests.cpp
+  UI.cpp
+C:\Users\Spac Robert\source\repos\Neusoft_project\Neusoft_project\UI.cpp(15,26): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Spac Robert\source\repos\Neusoft_project\Neusoft_project\UI.cpp(17,27): warning C4018: '>': signed/unsigned mismatch
+  Generating Code...
+  Neusoft_project.vcxproj -> C:\Users\Spac Robert\source\repos\Neusoft_project\Debug\Neusoft_project.exe
